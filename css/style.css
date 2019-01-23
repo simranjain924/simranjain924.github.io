@@ -1,0 +1,188 @@
+
+.my
+{
+    text-align: center;
+    padding-top: 60px;
+    font-family: Times New Roman;
+    padding-bottom: 50px;
+    color:#045FB4;
+    
+}
+
+#home
+{
+    height:800px;
+    margin-top: 50px;
+    background: #1C1C1C;
+}
+#home img
+{
+    padding-left: 200px;
+    margin-top: 180px;
+    height: 400px;
+    width: 420px;
+}
+#home .btn{
+    margin-top: 50px;
+}
+#photo
+{
+    height: 600px;
+    
+}
+#data
+{
+    height: 600px;
+   
+    color: white;
+    text-align: center;
+}
+#data p
+{
+    text-align: justify;
+    padding-left: 120px;
+    padding-right: 80px;
+    padding-top: 30px;
+    font-size: 17px;
+}
+#data h2
+{
+    padding-top: 220px;
+    font-size: 40px;
+    font-family: Times New Roman;
+    color: #DF0101;
+}
+#skill
+{
+    height: 700px;
+    
+}
+#skill img
+{
+    width:230px;
+    height: 120px;
+    padding-left: 120px;
+    
+}
+#skill #r1,#r2
+{
+    margin-top: 30px;
+}
+#skill .progress
+{
+    margin-top:30px; 
+}
+#pro
+{
+    height: 400px;
+    background: #F7F7F7;
+    
+}
+#pro img
+{
+    width: 100px;
+    height: 50px;
+    padding-left: 50px;
+}
+#pro p
+{
+    text-align: justify;
+    font-family: Times New Roman;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+#pro h3
+{
+    
+    font-family: Times New Roman;
+   
+    padding-left: 50px;
+    color:#045FB4;
+}
+#ame
+{
+    padding-top: 50px;
+    height: 550px;
+}
+#ame img
+{
+    
+    padding-left: 50px;
+    padding-top: 50px;
+    width: 700px;
+}
+#ame p
+{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 50px;
+    padding-left: 40px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+#ame #ty
+{
+    margin-left: 270px;
+    margin-top: 40px;
+}
+#edu
+{
+    background: #F7F7F7;
+}
+#edu .row
+{
+    min-height: 200px;
+    
+    
+}
+#edu .col-md-3
+{
+   background:#045FB4; 
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 20px;
+   
+}
+#edu h3
+{
+    color: white;
+    font-size: 20px;
+}
+#edu h2
+{
+  color: #045FB4;
+  font-size: 20px;
+}
+#edu p
+{
+    font-size: 15px;
+}
+#edu .oop
+{
+    padding-left: 35px;
+}
+#edu .col-md-3:hover{
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+   
+}
+#contact
+{
+    height: 700px;
+    
+}
+#contact p{
+    text-align: center;
+    font-size: 18px;
+     color: #045FB4;
+     
+}
+#contact img
+{
+    padding-left: 150px;
+    width: 200px;
+    height: 80px;
+    padding-top: 30px;
+    
+}
